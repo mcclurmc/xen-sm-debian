@@ -1,1 +1,4 @@
 /usr/lib/xen-common/xapi
+/etc/xensource/master.d
+/etc/xapi.d/plugins
+/etc/cron.d
